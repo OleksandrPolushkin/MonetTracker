@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:text="Hello, it's my first app"
         android:textColor="#5c87f5"
-        android:textSize="25dp"
+        android:textSize="45dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.176"
